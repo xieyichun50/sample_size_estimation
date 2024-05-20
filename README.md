@@ -1,1 +1,1 @@
-# sample_size_estimation
+# Estimating sample size by considering different factors
